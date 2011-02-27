@@ -6,7 +6,7 @@
     <archetype>
       <groupId>net.vivin</groupId>
       <artifactId>spring-3-mvc-with-hibernate-validator-archetype</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0</version>
       <description>spring-3-mvc-with-hibernate-validator-archetype</description>
     </archetype>
   </archetypes>
