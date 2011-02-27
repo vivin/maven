@@ -3,9 +3,10 @@
   <groupId>net.vivin</groupId>
   <artifactId>spring-3-mvc-with-hibernate-validator-archetype</artifactId>
   <versioning>
+    <release>1.0</release>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20110227194509</lastUpdated>
+    <lastUpdated>20110227202127</lastUpdated>
   </versioning>
 </metadata>
